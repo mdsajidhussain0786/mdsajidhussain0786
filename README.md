@@ -1,6 +1,4 @@
-
-![logo](https://github.com/mdsajidhussain0786/mdsajidhussain0786/blob/main/download.jpeg)
-
+![logo](https://github.com/mdsajidhussain0786/mdsajidhussain0786/blob/main/visuel-article-data-analytics_banner.webp)
 <h1 align="center">Hi 👋, I'm Md Sajid Hussain</h1>
 <h3 align="center">I am a detail-oriented aspiring Data Analyst passionate about leveraging data to drive insights. Skilled in Python. SQL and Tableau. I am constantly learning and applying data science techniques to real-world problems through personal projects.</h3>
 
