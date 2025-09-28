@@ -1,6 +1,8 @@
 ![logo](https://github.com/mdsajidhussain0786/mdsajidhussain0786/blob/main/visuel-article-data-analytics_banner.webp)
 <h1 align="center">Hi 👋, I'm Md Sajid Hussain</h1>
-<h3 align="center">I am a detail-oriented aspiring Data Analyst passionate about leveraging data to drive insights. Skilled in Python. SQL and Tableau. I am constantly learning and applying data science techniques to real-world problems through personal projects.</h3>
+<h3 align="center">🎯 Detail-Oriented Data Analyst | Insight-Driven & Action-Oriented
+
+A Python 🐍 wizard and SQL ⚙️ master, dedicated to transforming complex datasets into clear, actionable business strategies. Proficient in crafting compelling visualizations with Tableau 📈 and Power BI 📊, and leveraging Excel 📑 for robust data manipulation. Constantly expanding my toolkit by applying cutting-edge data science techniques to impactful personal projects. Ready to dive deep and deliver results! 🚀</h3>
 
 <img align="right" alt="coading" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwfYls_ejHQ_D_RxjOrOOtyLXxGo7ohDul1A&s ">
 
@@ -8,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/mdsajidsid0306" target="blank"><img src="https://img.shields.io/twitter/follow/mdsajidsid0306?logo=twitter&style=for-the-badge" alt="mdsajidsid0306" /></a> </p>
 
-- 🌱 I’m currently learning **SQL,EXCEL,PYTHON,POWERBI**
+- 🌱 I’m currently learning **SQL,EXCEL,PYTHON,POWERBI,MACHINE LEARNING,STATSTICS**
 
-- 💬 Ask me about **SQL,PYTHON,HTML,CSS**
+- 💬 Ask me about **SQL,PYTHON,POWEBI,EXCEL**
 
 - 📫 How to reach me **hussainms244@gmail.com**
 
