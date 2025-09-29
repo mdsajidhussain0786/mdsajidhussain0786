@@ -1,7 +1,7 @@
 ![logo](https://github.com/mdsajidhussain0786/mdsajidhussain0786/blob/main/an.jpg)
 
 <h1 align="center">Hi 👋, I'm MD SAJID HUSSAIN</h1>
-<h3 align="center">🎯 Detail-Oriented Data Analyst | Insight-Driven & Action-Oriented A Python 🐍 wizard and SQL ⚙️ master, dedicated to transforming complex datasets into clear, actionable business strategies. Proficient in crafting compelling visualizations with Tableau 📈 and Power BI 📊, and leveraging Excel 📑 for robust data manipulation. Constantly expanding my toolkit by applying cutting-edge data science techniques to impactful personal projects. Ready to dive deep and deliver results!</h3>
+<h3 align="center">🎯 Data Analyst | Python 🐍 & SQL ⚙️ | Turning complex data into clear insights. Skilled in Tableau 📈, Power BI 📊, and Excel 📑 for analysis and visualization. Passionate about applying data science to projects that drive results.</h3>
 
 <img align="right" alt="Analysis" width="400" height="300" src="animation.gif">
 
