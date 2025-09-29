@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm MD SAJID HUSSAIN</h1>
 <h3 align="center">🎯 Detail-Oriented Data Analyst | Insight-Driven & Action-Oriented A Python 🐍 wizard and SQL ⚙️ master, dedicated to transforming complex datasets into clear, actionable business strategies. Proficient in crafting compelling visualizations with Tableau 📈 and Power BI 📊, and leveraging Excel 📑 for robust data manipulation. Constantly expanding my toolkit by applying cutting-edge data science techniques to impactful personal projects. Ready to dive deep and deliver results!</h3>
 
-<p img align="right" alt="Analysis" width="500" src="https://lottiefiles.com/free-animation/marketing-analytics-GCmqD8W7DO.gif"/></p>
+<p img align="right" alt="Analysis" width="500" src="animation.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsajidhussain0786&label=Profile%20views&color=0e75b6&style=flat" alt="mdsajidhussain0786" /> </p>
 
